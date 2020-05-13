@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68941ba1-2183-43f9-9057-6096f007ec86" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionFlightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>channelRanking</find>
+      <find>gstv</find>
+      <find>\\</find>
+      <find>”</find>
+      <find>Content-type</find>
+      <find>responseGetCampaignRequirements</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>gstv</replace>
+      <replace>\</replace>
+      <replace>&quot;</replace>
+      <replace>responseGetTrafficInstruction</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/ChannelRanking/CampaignRequirementsController/getCampaignRequirementsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/ChannelRanking/CampaignRequirementsController/newss.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/ChannelRanking/ChannelRankingController/create_channel_ranking.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionClientDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionTypeDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/create_traffic-instructions.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/createTrafficInstructions.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/createTrafficInstructions.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/createTrafficInstructions.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionDTO.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/ChannelRanking/CampaignRequirementsController/GetCampaignRequirementsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/gstvBaseController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/CampaignRequirementsController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/ChannelRanking/CampaignRequirementsController/trafficInstructionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/trafficInstructionController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/ChannelRanking/trafficInstructionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/DTOHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionSchema.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/trafficInstructionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/TrafficInstructionTypeDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/TrafficInstructionClientLevelDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/HttpClient.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructions.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/TrafficInstructionDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/Products/ProductsDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/ProductsController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionWithoutTypeSchema.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/dataProviders/CreateMediaPlanDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionProductSchema.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductProductTypeDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductAdvertisingCategoryDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructionsProduct.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductBrandDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/traficInstructionBase/TrafficInstructionClientLevelDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/traficInstructionBase/TrafficInstructionFlightDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/TrafficInstructionWeekpartDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionFlightSchema.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionProductsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionTypeDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionClientDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductsDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructionsFlight.json" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/TrafficInstructionFlightDTO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/TrafficInstructionController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionFlightTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gstv/apitest/dataProviders/TrafficInstructionDataProvider.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="json-models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="response_schemas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="dataProviders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="DTOs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="DTOs" type="462c0819:PsiDirectoryNode" />
+              <item name="trafficInstruction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="DTOs" type="462c0819:PsiDirectoryNode" />
+              <item name="trafficInstruction" type="462c0819:PsiDirectoryNode" />
+              <item name="trafficInstructionProducts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apitest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gstv-apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="apitest" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/response_schemas" />
+      <recent name="$PROJECT_DIR$/src/main/resources/json-models" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight" />
+      <recent name="$PROJECT_DIR$/src/main/resources/testData" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gstv.apitest.tests" />
+      <recent name="com.gstv.apitest.DTOs.trafficInstruction.trafficInstructionProducts" />
+      <recent name="com.gstv.apitest.dataProviders" />
+      <recent name="com.gstv.apitest.controllers" />
+      <recent name="com.gstv.apitest.DTOs.Products" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/response_schemas" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/testData/models" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TrafficInstructionFlightTest">
+    <configuration name="GetCampaignRequirementsTest.testGetCampaignRequirementsModel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.resources.testData.tests.ChannelRanking.CampaignRequirementsController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests.ChannelRanking.CampaignRequirementsController" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.resources.testData.tests.ChannelRanking.CampaignRequirementsController.GetCampaignRequirementsTest" />
+      <option name="METHOD_NAME" value="testGetCampaignRequirementsModel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficInstructionFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.tests.TrafficInstructionFlightTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficInstructionFlightTest.testGetTrafficInstructionModel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.tests.TrafficInstructionFlightTest" />
+      <option name="METHOD_NAME" value="testGetTrafficInstructionModel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficInstructionProductsTest.testGetTrafficInstructionModel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.tests.TrafficInstructionProductsTest" />
+      <option name="METHOD_NAME" value="testGetTrafficInstructionModel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficInstructionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.tests.TrafficInstructionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficInstructionTest.testGetTrafficInstructionWithEmptyClientLevel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="gstv-apitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gstv.apitest.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gstv.apitest.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gstv.apitest.tests.TrafficInstructionTest" />
+      <option name="METHOD_NAME" value="testGetTrafficInstructionWithEmptyClientLevel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TrafficInstructionFlightTest" />
+        <item itemvalue="TestNG.TrafficInstructionTest" />
+        <item itemvalue="TestNG.TrafficInstructionFlightTest.testGetTrafficInstructionModel" />
+        <item itemvalue="TestNG.TrafficInstructionProductsTest.testGetTrafficInstructionModel" />
+        <item itemvalue="TestNG.TrafficInstructionTest.testGetTrafficInstructionWithEmptyClientLevel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68941ba1-2183-43f9-9057-6096f007ec86" name="Default Changelist" comment="" />
+      <created>1562865805404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562865805404</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TrafficInstructionProductsTest_testGetTrafficInstructionModel - 2019.07.17 at 14h 08m 19s.xml">
+      <configuration name="TrafficInstructionProductsTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionProductsTest_testGetTrafficInstructionModel - 2019.07.17 at 14h 11m 01s.xml">
+      <configuration name="TrafficInstructionProductsTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionProductsTest_testGetTrafficInstructionModel - 2019.07.17 at 14h 12m 31s.xml">
+      <configuration name="TrafficInstructionProductsTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest_testGetTrafficInstructionModel - 2019.07.17 at 15h 06m 13s.xml">
+      <configuration name="TrafficInstructionFlightTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest_testGetTrafficInstructionModel - 2019.07.17 at 15h 07m 34s.xml">
+      <configuration name="TrafficInstructionFlightTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest_testGetTrafficInstructionModel - 2019.07.17 at 15h 10m 14s.xml">
+      <configuration name="TrafficInstructionFlightTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest_testGetTrafficInstructionModel - 2019.07.22 at 15h 42m 11s.xml">
+      <configuration name="TrafficInstructionFlightTest.testGetTrafficInstructionModel" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest - 2019.09.20 at 13h 13m 04s.xml">
+      <configuration name="TrafficInstructionFlightTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionTest - 2019.09.26 at 09h 28m 24s.xml">
+      <configuration name="TrafficInstructionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TrafficInstructionFlightTest - 2019.09.26 at 09h 28m 35s.xml">
+      <configuration name="TrafficInstructionFlightTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="982" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33638585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32790697" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32790697" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3280899" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36744186" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32967034" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32790697" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32790697" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.36744186" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/apitest$TrafficInstructionTest.ic" NAME="TrafficInstructionTest Coverage Results" MODIFIED="1563385102205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gstv.apitest.tests.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>responseGetCampaignRequirements.asString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.then().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.getBody().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.prettyPrint()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.then().extract().body().path(&quot;originalError[0]&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.then().extract().body().path(&quot;originalError[0]&quot;).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseGetCampaignRequirements.getStatusCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;Auto-LYHBHOA7L0&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;gstv/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;com/gstv/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;/gstv/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;/com/gstv/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dtoClass.getClassLoader().getResourceAsStream(&quot;/Users/johnhoward/gstv/gstv-apitest/src/test/java/com/gstv/apitest/createTrafficInstructions.json&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/ChannelDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/traffic-instructions2/create_traffic-instructions.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData.traffic-instructions2/create_traffic-instructions.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/create_traffic-instructions1.json" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar!/com/fasterxml/jackson/core/JsonFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="274" selection-start-line="274" selection-end-line="274" />
+          <folding>
+            <element signature="e#23371#23372#0" expanded="true" />
+            <element signature="e#23431#23432#0" expanded="true" />
+            <element signature="e#23463#23464#0" expanded="true" />
+            <element signature="e#23513#23514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="1161" selection-start-line="1161" selection-end-line="1161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar!/com/fasterxml/jackson/core/util/BufferRecyclers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar!/lombok/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/createTrafficInstructions.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/MediaPlan/MediaPlanController/create_media_plan.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/testData/createTrafficInstructions.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/aaa.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/resources/aaa.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testData/MediaPlan/MediaPlanController/create_media_plan.json" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/TokensManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/AuthClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/gstvController.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/gstvBaseController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response_schemas/MediaPlan/SurveyController/get_filtered_surveys_schema.json" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/ProductsController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="238" column="1" selection-start-line="238" selection-start-column="1" selection-end-line="238" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionWithoutTypeSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4050">
+          <caret line="270" column="1" selection-start-line="270" selection-start-column="1" selection-end-line="270" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.0.0-beta7/testng-7.0.0-beta7.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="427" selection-start-line="427" selection-end-line="427" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/TrafficInstructionStartDateDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/traficInstructionBase/TrafficInstructionClientLevelDTO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionFlightSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="118" column="11" lean-forward="true" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionTypeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionClientLevelDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/traficInstructionBase/TrafficInstructionClientDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/AuthenticationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/DTOHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/helpers/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductBrandDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductProductTypeDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductsDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/TrafficInstructionWeekPartDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstruction/trafficInstructionProducts/TrafficInstructionProductAdvertisingCategoryDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructionsFlight.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="106" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/DTOs/trafficInstructionFlight/TrafficInstructionFlightDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/response_schemas/createTrafficInstructionProductSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="200" column="6" selection-start-line="200" selection-start-column="6" selection-end-line="200" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/json-models/createTrafficInstructionsProduct.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionProductsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/controllers/TrafficInstructionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/dataProviders/TrafficInstructionDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="84" selection-start-line="48" selection-start-column="82" selection-end-line="48" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gstv/apitest/tests/TrafficInstructionFlightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gstv-apitest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
